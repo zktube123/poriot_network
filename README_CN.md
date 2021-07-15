@@ -19,7 +19,7 @@
 - 添加环境变量/etc/profile
 
 - ```shell
-  - export PATH=$PATH:/local/go/bin
+  - export PATH=$PATH:/usr/local/go/bin
   
   - export GOPATH=/usr/local/go
   
